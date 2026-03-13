@@ -28,15 +28,4 @@ http://r7chaca.github.io/2d-browser-shooter/
 - HTML
 - CSS
 - JavaScript
-- 
-## Screenshots
-
-<p align="center">
-  <img src="gameplay.png" width="45%">
-  <img src="hit-effect.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="game-over.png" width="45%">
-  <img src="start-screen.png" width="45%">
-</p>
+  
